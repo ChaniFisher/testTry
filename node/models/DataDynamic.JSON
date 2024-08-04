@@ -1,0 +1,25 @@
+[
+   {
+      "CleaningProducts": {
+         "type": "String",
+         "require": "true"
+      },
+      "Cheeses": {
+         "type": "Array",
+         "require": "true"
+      },
+      "VegetablesAndFruits": {
+         "type": "String",
+         "require": "true"
+
+      },
+      "MeatAndFish": {
+         "type": "String",
+         "require": "true"
+      },
+      "Pastries": {
+         "type": "String",
+         "require": "true"
+      }
+   }
+]
